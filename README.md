@@ -2,7 +2,7 @@
 <h3 align="center">🔭 What I'm currently working on </h3>
 <p align="center">
   My Jira TUI application
-  <a href url="https://github.com/moali87/jirust">jirust</a>
+  <a href="https://github.com/moali87/jirust">jirust</a>
 </p>
 
 <h3 align="center">What I'm currently learning </h3>
@@ -11,9 +11,9 @@
 <h3 align="center"> Socials </h3>
 <p align="center">
   🎥
-  <a href url="https://www.twitch.tv/mo_ali141">twitch</a>
+  <a href="https://www.twitch.tv/mo_ali141">twitch</a>
   ▶️ 
-  <a href url="https://www.youtube.com/@codingmeltdown">youtube</a>
+  <a href="https://www.youtube.com/@codingmeltdown">youtube</a>
 </p>
 
 <h3 align="center">Stats </h3>
