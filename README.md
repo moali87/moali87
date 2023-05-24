@@ -1,21 +1,21 @@
 # Welcome! 👋
-## 🔭 What I'm currently working on 
+### 🔭 What I'm currently working on 
 My Jira TUI application [jirust](https://github.com/moali87/jirust)
 
-## What I'm currently learning
+### What I'm currently learning
 Rust 🦀
 
-## Socials
+### Socials
 🎥 [twitch](https://www.twitch.tv/mo_ali141)
 
 ▶️ [youtube](https://www.youtube.com/@codingmeltdown)
 
-## Stats
+### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&&theme=dark#gh-dark-mode-only&show_icons=true"/>
 
-## Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bash,cloudflare,firebase,gcp,git,github,githubactions,gitlab,go,grafana,js,jest,jquery,kubernetes,linux,mysql,neovim,vim,postgres,postman,py,ruby,rust,ts" />
