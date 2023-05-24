@@ -12,7 +12,7 @@ Rust 🦀
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&bg_color=00000000)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moali87)](https://github.com/moali87/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87"/>
 
 ## Tech Stack
 
