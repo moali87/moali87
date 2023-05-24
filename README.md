@@ -1,6 +1,6 @@
 # Welcome! 👋
-### 🔭 What I'm currently working on 
-My Jira TUI application [jirust](https://github.com/moali87/jirust)
+<h3 align="center">🔭 What I'm currently working on </h3>
+<text align="center"> My Jira TUI application [jirust](https://github.com/moali87/jirust)</text>
 
 <h3 align="center">What I'm currently learning </h3>
 Rust 🦀
