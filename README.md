@@ -6,12 +6,13 @@
 </p>
 
 <h3 align="center">What I'm currently learning </h3>
-Rust 🦀
+<p align="center">Rust 🦀</p>
 
 <h3 align="center"> Socials </h3>
 <p align="center">
   🎥
   <a href url="https://www.twitch.tv/mo_ali141">twitch</a>
+  
   ▶️ 
   <a href url="https://www.youtube.com/@codingmeltdown">youtube</a>
 </p>
