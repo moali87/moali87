@@ -18,7 +18,7 @@
 
 <h3 align="center">Stats </h3>
 <p align="center">
-  <a href url="https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical">Github stats</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&&theme=dark#gh-dark-mode-only&show_icons=true"/>
