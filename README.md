@@ -8,10 +8,13 @@
 <h3 align="center">What I'm currently learning </h3>
 Rust 🦀
 
-### Socials
-🎥 [twitch](https://www.twitch.tv/mo_ali141)
-
-▶️ [youtube](https://www.youtube.com/@codingmeltdown)
+<h3 align="center"> Socials </h3>
+<p align="center">
+  🎥
+  <a href url="https://www.twitch.tv/mo_ali141">twitch</a>
+  ▶️ 
+  <a href url="https://www.youtube.com/@codingmeltdown">youtube</a>
+</p>
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical)
