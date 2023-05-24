@@ -1,6 +1,9 @@
 # Welcome! 👋
 <h3 align="center">🔭 What I'm currently working on </h3>
-<a href url="https://github.com/moali87/jirust"> My Jira TUI application [jirust](https://github.com/moali87/jirust)</a>
+<p align="center">
+  My Jira TUI application
+  <a href url="https://github.com/moali87/jirust">jirust</a>
+</p>
 
 <h3 align="center">What I'm currently learning </h3>
 Rust 🦀
