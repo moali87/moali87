@@ -19,9 +19,9 @@
 <h3 align="center">Stats </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&&theme=dark#gh-dark-mode-only&show_icons=true"/>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&&theme=dark#gh-dark-mode-only&show_icons=true"/>
 
 ### Tech Stack
 <p align="center">
