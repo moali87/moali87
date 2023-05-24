@@ -12,9 +12,9 @@ Rust 🦀
 ▶️ [youtube](https://www.youtube.com/@codingmeltdown)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&theme=radical0)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&bg_color=00000000&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&theme=radical&show_icons=true"/>
 
 ## Tech Stack
 
