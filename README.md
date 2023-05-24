@@ -1,4 +1,17 @@
-### Hi there 👋
+# Welcome! 👋
+---
+## 🔭 What I'm currently working on 
+My Jira TUI application [jirust](https://github.com/moali87/jirust)
+
+## What I'm currently learning
+Rust 🦀
+
+## Socials
+🎥 [twitch](https://www.twitch.tv/mo_ali141)
+▶️ [youtube](https://www.youtube.com/@codingmeltdown)
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&bg_color=00000000)
 
 <!--
 **moali87/moali87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
