@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moali87&hide=[python]&&theme=dark#gh-dark-mode-only&show_icons=true"/>
 </p>
 
-### Tech Stack
+<h3 align="center">Tech Stack </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,bash,cloudflare,firebase,gcp,git,github,githubactions,gitlab,go,grafana,js,jest,jquery,kubernetes,linux,mysql,neovim,vim,postgres,postman,py,ruby,rust,ts" />
