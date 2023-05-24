@@ -11,7 +11,11 @@ Rust 🦀
 ▶️ [youtube](https://www.youtube.com/@codingmeltdown)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moali87&show_icons=true&bg_color=00000000)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moali87)](https://github.com/moali87/github-readme-stats)
+
+## Tech Stack
+
 
 <!--
 **moali87/moali87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
