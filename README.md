@@ -2,7 +2,7 @@
 ### 🔭 What I'm currently working on 
 My Jira TUI application [jirust](https://github.com/moali87/jirust)
 
-### What I'm currently learning
+<h3 align="center">What I'm currently learning </h3>
 Rust 🦀
 
 ### Socials
